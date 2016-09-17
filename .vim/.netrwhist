@@ -1,0 +1,9 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =7
+let g:netrw_dirhist_1='/etc/uwsgi/apps-available'
+let g:netrw_dirhist_2='/home/safts/myapps/questionnaire/app/templates'
+let g:netrw_dirhist_3='/home/safts/myapps/questionnaire/app/templates/app'
+let g:netrw_dirhist_4='/home/safts/myapps/questionnaire/app/templates'
+let g:netrw_dirhist_5='/home/safts/myapps/questionnaire/app'
+let g:netrw_dirhist_6='/home/safts/myapps/questionnaire'
+let g:netrw_dirhist_7='/home/safts/myapps/questionnaire/templates'
